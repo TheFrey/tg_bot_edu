@@ -3,7 +3,7 @@ URL = 'https://api.telegram.org/bot{TOKEN}/{method}'
 
 
 links = 'http://api.openweathermap.org/data/2.5/weather?q={city}&appid={token}&units=metric'
-TOKEN_WEATHER = 'c911289b798a07d2686f51df9dd84fc4'
+TOKEN_WEATHER = ''
 
 
 MESSAGE = {
