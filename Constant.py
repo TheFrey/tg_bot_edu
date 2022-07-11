@@ -1,4 +1,4 @@
-TOKEN = '5501426845:AAF1fsgyRtKsoV0RyQvgjVsYiNddlBs4Bf8'
+TOKEN = ''
 URL = 'https://api.telegram.org/bot{TOKEN}/{method}'
 
 
